@@ -7,6 +7,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 ### Tasks and Datasets in Financial NLP
 <h4 id="sentiment-analysis">Sentiment Analysis (SA)</h4>
+
 - **(Financial Phrase Bank)** _Good debt or bad debt: Detecting semantic orientations in economic texts_ ```JASIST 2014```
 [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.23062)]
 
@@ -34,8 +35,26 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 ##### Relation Extraction (RE)
 
+- **(REFinD)** _REFinD: Relation Extraction Financial Dataset_ ```SIGIR 2023```
+[[Paper](https://dl.acm.org/doi/10.1145/3539618.3591911)]
+
+##### Event Detection
+- **(EDT)** _Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading_ ```IJCNLP 2021```
+[[Paper](https://aclanthology.org/2021.findings-acl.186/)]
 
 <h4 id="question-answering">Question Answering (QA)</h4>
+
+- **(FiQA Task 2)** _Opinion-based QA over financial data_
+[[Homepage](https://sites.google.com/view/fiqa/home)]
+
+- **(FinQA)** _FinQA: A Dataset of Numerical Reasoning over Financial Data_ ```EMNLP 2021```
+[[Paper](https://aclanthology.org/2021.emnlp-main.300/)][[Github](https://github.com/czyssrs/FinQA)]
+
+- **(TAT-QA)** _TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance_ ```ACL 2021```
+[[Paper](https://aclanthology.org/2021.acl-long.254/)]
+
+
+
 <h4 id="stock-movement-prediction">Text-Enhanced Stock Movement Prediction (SMP)</h4>
 <h4 id="other-financial-nlp-tasks">Other Financial NLP Tasks</h4>
 <h4 id="financial-nlp-tasks-under-explored-for-llms">Financial NLP Tasks Under-Explored for LLMs</h4>
