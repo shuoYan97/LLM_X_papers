@@ -40,6 +40,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 [[Paper](https://dl.acm.org/doi/10.1145/3539618.3591911)]
 
 <h5 id="event_detection">Event Detection</h5>
+
 - **(EDT)** _Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading_ ```IJCNLP 2021```
 [[Paper](https://aclanthology.org/2021.findings-acl.186/)]
 
@@ -104,7 +105,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 <h5 id="sentence_boundary_detection">Sentence boundary detection</h5>
 
-- _Sentence Boundary Detection in PDF Noisy Text in the Financial Domain_ ```FinNLP 2019``
+- _Sentence Boundary Detection in PDF Noisy Text in the Financial Domain_ ```FinNLP 2019```
 [[Homepage](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/shared-task-finsbd)]
 
 <h5 id="multiple_classification">Multiple classification tasks</h5>
