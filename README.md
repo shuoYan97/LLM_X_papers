@@ -26,19 +26,19 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 <h4 id="information-extraction">Information Extraction (IE)</h4>
 
-##### Named Entity Recognition (NER)
+<h5 id="named_entity_detection">Named Entity Recognition (NER)</h5>
 - **(FIN3)** _Domain Adaption of Named Entity Recognition to Support Credit Risk Assessment_ ```Proceedings of the Australasian Language Technology Association Workshop 2015```
 [[Paper](https://aclanthology.org/U15-1010/)]
 
 - **(BloombergGPT NER tasks)** _BloombergGPT: A Large Language Model for Finance_ ```Arxiv 2023```
 [[Paper](https://arxiv.org/abs/2303.17564)]
 
-##### Relation Extraction (RE)
+<h5 id="relation_extraction">Relation Extraction (RE)</h5>
 
 - **(REFinD)** _REFinD: Relation Extraction Financial Dataset_ ```SIGIR 2023```
 [[Paper](https://dl.acm.org/doi/10.1145/3539618.3591911)]
 
-##### Event Detection
+<h5 id="event_detection">Event Detection</h5>
 - **(EDT)** _Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading_ ```IJCNLP 2021```
 [[Paper](https://aclanthology.org/2021.findings-acl.186/)]
 
@@ -51,15 +51,194 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 [[Paper](https://aclanthology.org/2021.emnlp-main.300/)][[Github](https://github.com/czyssrs/FinQA)]
 
 - **(TAT-QA)** _TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance_ ```ACL 2021```
-[[Paper](https://aclanthology.org/2021.acl-long.254/)]
+[[Paper](https://aclanthology.org/2021.acl-long.254/)][[Github](https://github.com/NExTplusplus/TAT-QA)]
 
+- **(DocFinQA)** _DocFinQA: A Long-Context Financial Reasoning Dataset_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2401.06915)]
+
+- **(ConvFinQA)** _ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering_ ```EMNLP 2022```
+[[Paper](https://aclanthology.org/2022.emnlp-main.421/)][[Github](https://github.com/czyssrs/ConvFinQA)]
+
+- **(PACIFIC)** _PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance_ ```EMNLP 2022```
+[[Paper](https://aclanthology.org/2022.emnlp-main.469/)][[Github](https://github.com/dengyang17/PACIFIC)]
+
+- **(FinanceBench)** _FinanceBench: A New Benchmark for Financial Question Answering_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2311.11944)][[Github](https://github.com/patronus-ai/financebench)]
+
+- **(Tab-CQA)** _Tab-CQA: A Tabular Conversational Question Answering Dataset on Financial Reports_ ```ACL 2023```
+[[Paper](https://aclanthology.org/2023.acl-industry.20/)][[Github](https://github.com/tjunlp-lab/Tab-CQA)]
 
 
 <h4 id="stock-movement-prediction">Text-Enhanced Stock Movement Prediction (SMP)</h4>
+
+- **(ACL-14)** _Using Structured Events to Predict Stock Price Movement: An Empirical Investigation_ ```EMNLP 2014```
+[[Paper](https://aclanthology.org/D14-1148/)]
+
+- **(ACl-18)** _Stock Movement Prediction from Tweets and Historical Prices_ ```ACL 2018```
+[[Paper](https://aclanthology.org/P18-1183/)][[Github](https://github.com/yumoxu/stocknet-code)]
+
+- **(CIKM-18)** _Hybrid Deep Sequential Modeling for Social Text-Driven Stock Prediction_ ```CIKM 2018```
+[[Paper](https://dl.acm.org/doi/10.1145/3269206.3269290)][[Github](https://github.com/wuhuizhe/CHRNN)]
+
+- **(BigData-22)** _Accurate stock movement prediction with self-supervised learning from sparse noisy tweets_ ```Big Data 2022```
+[[Paper](https://ieeexplore.ieee.org/document/10020720)] [[Github](https://github.com/deeptrade-public/slot)]
+
+- **(Astock)** _Astock: A New Dataset and Automated Stock Trading based on Stock-specific News Analyzing Model_ ```Arxiv 2022``` ******
+[[Paper](https://arxiv.org/abs/2206.06606)][[Github](https://github.com/JinanZou/Astock)]
+
+- **(EDT)** _Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading_ ```IJCNLP 2021```
+[[Paper](https://aclanthology.org/2021.findings-acl.186/)]
+ 
 <h4 id="other-financial-nlp-tasks">Other Financial NLP Tasks</h4>
+
+<h5 id="new_headline_classification">News headline classification</h5>
+ 
+-  _Impact of News on the Commodity Market: Dataset and Results_ ```Arxiv 2020```
+[[Paper](https://arxiv.org/abs/2009.04202)]
+
+<h5 id="fomc">Federal Open Market Committee (FOMC)</h5>
+
+- _Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis_ ```ACL 2023```
+[[Paper](https://aclanthology.org/2023.acl-long.368/)][[Github](https://github.com/gtfintechlab/fomc-hawkish-dovish)]
+
+<h5 id="sentence_boundary_detection">Sentence boundary detection</h5>
+
+- _Sentence Boundary Detection in PDF Noisy Text in the Financial Domain_ ```FinNLP 2019``
+[[Homepage](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/shared-task-finsbd)]
+
+<h5 id="multiple_classification">Multiple classification tasks</h5>
+
+- _Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing_ ```EMNLP 2023```
+[[Paper](https://aclanthology.org/2023.findings-emnlp.58/)]
+
+<h5 id="ner_ned">NER+NED</h5>
+
+- **(BloombergGPT NER+NED tasks)** _BloombergGPT: A Large Language Model for Finance_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2303.17564)]
+
+<h5 id="bizbench">BizBench</h5>
+
+- **(BizBench)** _BizBench: A Quantitative Reasoning Benchmark for Business and Finance_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2311.06602)]
+
+<h5 id="investment-opinion-generation">Investment opinion generation</h5>
+
+- _Beyond Classification: Financial Reasoning in State-of-the-Art Language Models_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2305.01505)][[Github](https://github.com/guijinSON/FIOG)]
+
+<h5 id="summarization"> ummarization</h5>
+
+- _ECTSum: A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts_ ```EMNLP 2022```
+[[Paper](https://arxiv.org/abs/2311.06602)][[Github](https://github.com/rajdeep345/ECTSum)]
+
+
+
 <h4 id="financial-nlp-tasks-under-explored-for-llms">Financial NLP Tasks Under-Explored for LLMs</h4>
 
+<h5 id="financial-fraud-detection">Financial fraud detection</h5>
+
+- _Intelligent financial fraud detection: A comprehensive review_ ```Computers & Security 2016```
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404815001261)]
+
+<h5 id="risk_assessment_and_management">Risk assessment and management</h5>
+
+- _Machine learning and AI for risk management_
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-02330-0_3)]
+
+- _A survey on deep learning for financial risk prediction_ ```Quantitative Finance and Economics 2021```
+[[Paper](https://www.aimspress.com/article/doi/10.3934/QFE.2021032?viewType=HTML)]
+
+- _Machine learning for financial risk management: a survey_ 
+[[Paper](https://ieeexplore.ieee.org/document/9249416)]
+
+<h5 id="robo_advisor">Robo advisor</h5>
+
+- _Artificial Intelligence for Conversational Robo-Advisor_ ```ASONAM 2018```
+[[Paper](https://ieeexplore.ieee.org/document/8508269)]
+
+- _Artificial intelligence in financial services: a qualitative research to discover robo-advisory services_ ```Qualitative Research in Financial Markets 2021```
+[[Paper](https://www.emerald.com/insight/content/doi/10.1108/QRFM-10-2020-0199/full/html?skipTracking=true)]
+
+- _Research on Generative Artificial Intelligence for Virtual Financial Robo-Advisor_ ```Academic Journal of Science and Technology 2024```
+[[Paper](https://drpress.org/ojs/index.php/ajst/article/view/19151)]
+
+<h5 id="compliance_and_regulations">Compliance and regulations</h5>
+
+- _The Application of Artificial Intelligence in Financial Compliance Management_ ```AIAM 2019```
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3358331.3358339)]
+
+- _Classifying sentential modality in legal language: a use case in financial regulations, acts and directives_ ```ICAIL 2017```
+[[Paper](https://dl.acm.org/doi/10.1145/3086512.3086528)]
+
+<h5 id="chatbot_services">Chatbot services</h5>
+
+- _Ai-based chatbot service for financial industry_ ```Fujitsu Scientific and Technical Journal 2018```
+[[Paper](https://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol54-2/paper01.pdf)]
+
+- _Toward a chatbot for financial sustainability_ ```Sustainability 2021```
+[[Paper](https://www.mdpi.com/2071-1050/13/6/3173)]
+
+- _Text-based chatbot in financial sector: A systematic literature review._ ```Data Science in Finance and Economics 2022```
+[[Paper](https://www.aimspress.com/article/doi/10.3934/DSFE.2022011?viewType=HTML)]
+
+
+
 ### Financial LLMs
+
+<h4 id="pretraining_and_downstream_task_finetuning_plms">Pre-Training and Downstream Task Fine-Tuning PLMs.</h4>
+
+- **(FinBERT-19)** _FinBERT: Financial Sentiment Analysis with Pre-trained Language Models_ ```Arxiv 2019```
+[[Paper](https://arxiv.org/abs/1908.10063)][[Github](https://github.com/ProsusAI/finBERT)][[Model](https://huggingface.co/ProsusAI/finbert)]
+
+- **(FinBERT-20)** _Finbert: A pretrained language model for financial communications_ ```Arxiv 2020```
+[[Paper](https://arxiv.org/abs/2006.08097)][[Github](https://github.com/yya518/FinBERT)][[Model](https://huggingface.co/yiyanghkust/finbert-pretrain)]
+
+- **(FinBERT-21)** _Finbert: A pre-trained financial language representation model for financial text mining_ ```IJCAI 2020```
+[[Paper](https://www.ijcai.org/proceedings/2020/622)]
+
+- **(Mengzi-BERTbase-fin)** _Mengzi: Towards lightweight yet ingenious pre-trained models for chinese_ ``````
+[[Paper](https://arxiv.org/abs/2110.06696)][[Github](https://github.com/Langboat/Mengzi/blob/main/README_en.md)][[Model](https://huggingface.co/Langboat/mengzi-bert-base-fin)]
+
+- **(FLANG)** _When FLUE Meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain_ ```EMNLP 2022```
+[[Paper](https://aclanthology.org/2022.emnlp-main.148/)][[Github](https://github.com/SALT-NLP/FLANG)][[Model](https://huggingface.co/SALT-NLP/FLANG-BERT)]
+
+- **(BBT-Fin)** _BBT-Fin: Comprehensive Construction of Chinese Financial Domain Pre-trained Language Model, Corpus and Benchmark_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2302.09432)][[Github](https://github.com/ssymmetry/BBT-FinCUGE-Applications)][[Model](https://huggingface.co/SuSymmertry/BBT)]
+
+<h4 id="pretraining_LLMs">Pre-training LLMs</h4>
+
+- **(BloombergGPT)** _BloombergGPT: A Large Language Model for Finance_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2303.17564)]
+
+<h4 id="instruction_finetuning_llms">Instruction Fine-Tuning LLMs.</h4>
+
+- **(FinMA)** _PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2306.05443)][[Github](https://github.com/The-FinAI/PIXIU)][[Model](https://huggingface.co/ChanceFocus/finma-7b-nlp)]
+
+- **(Instruct-FinGPT)** _Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models_ ```IJCAI 2023```
+[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4489831)][[Github](https://github.com/AI4Finance-Foundation/FinGPT)]
+
+- **(CFGPT)** _CFGPT: Chinese Financial Assistant with Large Language Model_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2309.10654)][[Github](https://github.com/TongjiFinLab/CFGPT)][[Model](https://huggingface.co/TongjiFinLab/CFGPT1-sft-7B-Full)]
+
+- **(InvestLM)** _InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2309.13064)][[Github](https://github.com/AbaciNLP/InvestLM)][[Model](https://huggingface.co/yixuantt/InvestLM-awq)]
+
+- **(DISC-FinLLM)** _DISC-FinLLM: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2310.15205)][[Github](https://github.com/FudanDISC/DISC-FinLLM)][[Model](https://huggingface.co/Go4miii/DISC-FinLLM)]
+
+- **(FinGPT)** _FinGPT: Instruction Tuning Benchmark for Open-Source Large Language Models in Financial Datasets_ ```Workshop on Instruction Tuning and Instruction Following at NeurIPS 2023```
+[[Paper](https://arxiv.org/abs/2310.04793)][[Github](https://github.com/AI4Finance-Foundation/FinGPT)]
+
+- **(FinGPT)** _FinGPT: Democratizing Internet-scale Data for Financial Large Language Models_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2307.10485)][[Github](https://github.com/AI4Finance-Foundation/FinGPT)]
+
+- **(FinMA-ES)** _Dólares or Dollars? Unraveling the Bilingual Prowess of Financial LLMs Between Spanish and English_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2402.07405)][[Github](https://github.com/The-FinAI/PIXIU)]
+
+- **(FinTral)** _FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Models_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2402.10986)]
+
 
 ### Evaluation and Analysis
 
