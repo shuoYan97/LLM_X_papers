@@ -27,6 +27,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 <h4 id="information-extraction">Information Extraction (IE)</h4>
 
 <h5 id="named_entity_detection">Named Entity Recognition (NER)</h5>
+
 - **(FIN3)** _Domain Adaption of Named Entity Recognition to Support Credit Risk Assessment_ ```Proceedings of the Australasian Language Technology Association Workshop 2015```
 [[Paper](https://aclanthology.org/U15-1010/)]
 
@@ -126,7 +127,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 - _Beyond Classification: Financial Reasoning in State-of-the-Art Language Models_ ```Arxiv 2023```
 [[Paper](https://arxiv.org/abs/2305.01505)][[Github](https://github.com/guijinSON/FIOG)]
 
-<h5 id="summarization"> ummarization</h5>
+<h5 id="summarization"> Summarization</h5>
 
 - _ECTSum: A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts_ ```EMNLP 2022```
 [[Paper](https://arxiv.org/abs/2311.06602)][[Github](https://github.com/rajdeep345/ECTSum)]
@@ -239,8 +240,34 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 - **(FinTral)** _FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Models_ ```Arxiv 2024```
 [[Paper](https://arxiv.org/abs/2402.10986)]
 
+- **(FBI)** __
+
 
 ### Evaluation and Analysis
+
+<h4 id="performance_evaluation_and_analysis_for_popular_financial_tasks">Performance Evaluation and Analysis for Popular Financial Tasks</h4>
+
+- _Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics? A Study on Several Typical Tasks_ ```EMNLP 2023```
+[[Paper](https://arxiv.org/abs/2305.05862)]
+
+- _PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2306.05443)][[Github](https://github.com/The-FinAI/PIXIU)][[Model](https://huggingface.co/ChanceFocus/finma-7b-nlp)]
+
+- _InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2309.13064)][[Github](https://github.com/AbaciNLP/InvestLM)][[Model](https://huggingface.co/yixuantt/InvestLM-awq)]
+
+<h4 id="new_evaluation_frameworks_and_tasks">New Evaluation Frameworks and Tasks</h4>
+
+- **(FinLMEval)** _Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing_ ```EMNLP 2023```
+[[Paper](https://aclanthology.org/2023.findings-emnlp.58/)]
+
+- **(Finben)** _FinBen: A Holistic Financial Benchmark for Large Language Models_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2402.12659)]
+
+- **(FBI)** _Are LLMs Rational Investors? A Study on Detecting and Reducing the Financial Bias in LLMs_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2402.12713)]
+
+
 
 ### LLM-based Methodologies for Financial Tasks and Challenges
 
