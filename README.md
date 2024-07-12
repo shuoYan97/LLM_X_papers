@@ -198,7 +198,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 - **(FinBERT-21)** _Finbert: A pre-trained financial language representation model for financial text mining_ ```IJCAI 2020```
 [[Paper](https://www.ijcai.org/proceedings/2020/622)]
 
-- **(Mengzi-BERTbase-fin)** _Mengzi: Towards lightweight yet ingenious pre-trained models for chinese_ ``````
+- **(Mengzi-BERTbase-fin)** _Mengzi: Towards lightweight yet ingenious pre-trained models for chinese_ ```Arxiv 2021```
 [[Paper](https://arxiv.org/abs/2110.06696)][[Github](https://github.com/Langboat/Mengzi/blob/main/README_en.md)][[Model](https://huggingface.co/Langboat/mengzi-bert-base-fin)]
 
 - **(FLANG)** _When FLUE Meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain_ ```EMNLP 2022```
@@ -240,8 +240,6 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 - **(FinTral)** _FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Models_ ```Arxiv 2024```
 [[Paper](https://arxiv.org/abs/2402.10986)]
-
-- **(FBI)** __
 
 
 ### Evaluation and Analysis
