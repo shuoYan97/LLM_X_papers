@@ -266,9 +266,60 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 - **(FBI)** _Are LLMs Rational Investors? A Study on Detecting and Reducing the Financial Bias in LLMs_ ```Arxiv 2024```
 [[Paper](https://arxiv.org/abs/2402.12713)]
 
+- _Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2304.07619)]
+
+- _Can GPT models be Financial Analysts? An Evaluation of ChatGPT and GPT-4 on mock CFA Exams_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2310.08678)][[Github](https://github.com/e-cal/gpt-cfa)]
+
 
 
 ### LLM-based Methodologies for Financial Tasks and Challenges
+
+<h4 id="confidentiality_and_scarcity_of_high_quality_data">Confidentiality and Scarcity of High-Quality Data</h4>
+
+- _Generating synthetic data in finance: opportunities, challenges and pitfalls_ ```ICAIF 2020```
+[[Paper](https://dl.acm.org/doi/10.1145/3383455.3422554)]
+
+- _Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models_ ```ICAIF 2023```
+[[Paper](https://dl.acm.org/doi/10.1145/3604237.3626866)][[Github](https://github.com/AI4Finance-Foundation/FinGPT)]
+
+- _Large Language Models as Financial Data Annotators: A Study on Effectiveness and Efficiency_ ```LREC-COLING 2024```
+[[Paper](https://aclanthology.org/2024.lrec-main.885/)]
+
+- _No Language is an Island: Unifying Chinese and English in Financial Large Language Models, Instruction Data, and Benchmarks_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2403.06249)][[Github](https://github.com/The-FinAI/PIXIU)]
+
+<h4 id="quantitative_reasoning">Quantitative Reasoning</h4>
+
+- **(ENCORE)** _Enhancing Numerical Reasoning with the Guidance of Reliable Reasoning Processes_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2402.10654)]
+
+- **(PoT)** _Program of thoughts prompting: Disentangling computation from reasoning for numerical reasoning tasks_ ```TLMR 2023```
+[[Paper](https://arxiv.org/abs/2211.12588)][[Github](https://github.com/wenhuchen/Program-of-Thoughts)]
+
+- **(BRIDGE)** _Exploring Equation as a Better Intermediate Meaning Representation for Numerical Reasoning of Large Language Models_ ```AAAI 2024```
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29879)][[Github](https://github.com/zirui-HIT/Bridge_for_Numerical_Reasoning)]
+
+- **(TAT-LLM)** _TAT-LLM: A Specialized Language Model for Discrete Reasoning over Tabular and Textual Data_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2401.13223)][[Github](https://github.com/fengbinzhu/TAT-LLM)][[Model](https://huggingface.co/next-tat/tat-llm-7b-fft)]
+
+- _Evaluating LLMs' Mathematical Reasoning in Financial Document Question Answering_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2402.11194)]
+
+<h4 id="multimodal_understanding">Multimodal Understanding</h4>
+
+- **(UReader)** _UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model_ ```EMNLP 2023```
+[[Paper](https://aclanthology.org/2023.findings-emnlp.187/)][[Github](https://github.com/LukeForeverYoung/UReader)]
+
+- **(DocLLM)** _DocLLM: A layout-aware generative language model for multimodal document understanding_ ```Arxiv 2023```
+[[Paper](https://arxiv.org/abs/2401.00908)][[Github](https://github.com/dswang2011/DocLLM)]
+
+- **(AFIE)** _Enabling and Analyzing How to Efficiently Extract Information from Hybrid Long Documents with LLMs_ ```Arxiv 2024```
+[[Paper](https://arxiv.org/abs/2305.16344)]
+
+- **(MANAGER)** _Modal-adaptive Knowledge-enhanced Graph-based Financial Prediction from Monetary Policy Conference Calls with LLM_ ```FinNLP 2024```
+[[Paper](https://aclanthology.org/2024.finnlp-1.7/)][[Github](https://github.com/OuyangKun10/MANAGER)]
 
 
 ## Healthcare
