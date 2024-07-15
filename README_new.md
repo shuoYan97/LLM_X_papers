@@ -96,6 +96,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 <h5 id="other_classification_tasks">Other Classification tasks</h5>
 
 <h6 id="new_headline_classification">News headline classification</h6>
+
 - _Impact of News on the Commodity Market: Dataset and Results_ ```Arxiv 2020```
 [[Paper](https://arxiv.org/abs/2009.04202)]
 
@@ -146,7 +147,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 <h5 id="risk_assessment_and_management">Risk assessment and management</h5>
 
-- _Machine learning and AI for risk management_ ```Disrupting Finance```
+- _Machine learning and AI for risk management_ ```Disrupting Finance, 2018```
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-02330-0_3)]
 
 - _A survey on deep learning for financial risk prediction_ ```Quantitative Finance and Economics 2021```
