@@ -11,7 +11,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 - **(Financial Phrase Bank)** _Good debt or bad debt: Detecting semantic orientations in economic texts_ ```JASIST 2014```
 [[Paper](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.23062)]
 
-- **(FiQA Task 1)** _Aspect-based financial sentiment analysis_
+- **(FiQA Task 1)** _Aspect-based financial sentiment analysis_ ```Open Challenge - WWW 2018```
 [[Homepage](https://sites.google.com/view/fiqa/home)]
 
 - **(TweetFinSent)** _TweetFinSent: A Dataset of Stock Sentiments on Twitter_ ```FinNLP 2022```
@@ -26,7 +26,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 <h4 id="information-extraction">Information Extraction (IE)</h4>
 
-<h5 id="named_entity_detection">Named Entity Recognition (NER)</h5>
+<h5 id="named_entity_recognition">Named Entity Recognition (NER)</h5>
 
 - **(FIN3)** _Domain Adaption of Named Entity Recognition to Support Credit Risk Assessment_ ```Proceedings of the Australasian Language Technology Association Workshop 2015```
 [[Paper](https://aclanthology.org/U15-1010/)]
@@ -46,7 +46,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 <h4 id="question-answering">Question Answering (QA)</h4>
 
-- **(FiQA Task 2)** _Opinion-based QA over financial data_
+- **(FiQA Task 2)** _Opinion-based QA over financial data_ ```Open Challenge - WWW 2018```
 [[Homepage](https://sites.google.com/view/fiqa/home)]
 
 - **(FinQA)** _FinQA: A Dataset of Numerical Reasoning over Financial Data_ ```EMNLP 2021```
@@ -146,13 +146,13 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 
 <h5 id="risk_assessment_and_management">Risk assessment and management</h5>
 
-- _Machine learning and AI for risk management_
+- _Machine learning and AI for risk management_ ```Disrupting Finance```
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-02330-0_3)]
 
 - _A survey on deep learning for financial risk prediction_ ```Quantitative Finance and Economics 2021```
 [[Paper](https://www.aimspress.com/article/doi/10.3934/QFE.2021032?viewType=HTML)]
 
-- _Machine learning for financial risk management: a survey_ 
+- _Machine learning for financial risk management: a survey_ ```IEEE access 2020```
 [[Paper](https://ieeexplore.ieee.org/document/9249416)]
 
 <h5 id="robo_advisor">Robo advisor</h5>
@@ -251,11 +251,9 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 - _Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics? A Study on Several Typical Tasks_ ```EMNLP 2023```
 [[Paper](https://arxiv.org/abs/2305.05862)]
 
-- _PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance_ ```Arxiv 2023```
+- **(PIXIU)** _PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance_ ```Arxiv 2023```
 [[Paper](https://arxiv.org/abs/2306.05443)][[Github](https://github.com/The-FinAI/PIXIU)][[Model](https://huggingface.co/ChanceFocus/finma-7b-nlp)]
 
-- _InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning_ ```Arxiv 2023```
-[[Paper](https://arxiv.org/abs/2309.13064)][[Github](https://github.com/AbaciNLP/InvestLM)][[Model](https://huggingface.co/yixuantt/InvestLM-awq)]
 
 <h4 id="new_evaluation_frameworks_and_tasks">New Evaluation Frameworks and Tasks</h4>
 
