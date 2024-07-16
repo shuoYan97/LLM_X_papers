@@ -85,7 +85,7 @@ Paper: [https://arxiv.org/abs/2405.01769](https://arxiv.org/abs/2405.01769)
 - **(BigData-22)** _Accurate stock movement prediction with self-supervised learning from sparse noisy tweets_ ```Big Data 2022```
 [[Paper](https://ieeexplore.ieee.org/document/10020720)] [[Github](https://github.com/deeptrade-public/slot)]
 
-- **(Astock)** _Astock: A New Dataset and Automated Stock Trading based on Stock-specific News Analyzing Model_ ```Arxiv 2022``` ******
+- **(Astock)** _Astock: A New Dataset and Automated Stock Trading based on Stock-specific News Analyzing Model_ ```Arxiv 2022```
 [[Paper](https://arxiv.org/abs/2206.06606)][[Github](https://github.com/JinanZou/Astock)]
 
 - **(EDT)** _Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading_ ```IJCNLP 2021```
